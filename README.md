@@ -89,7 +89,7 @@ The goal is to identify **market growth patterns, EV adoption trends across Indi
 
 ### EDA Screenshots
 
-![EV sales distribution by Year](
+![EV sales distribution by Year](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/a273941f7b7e05eb45b3e0299b23fbd68ce4d832/images/Screenshot%202025-10-17%20230038.png)
 
 
 
