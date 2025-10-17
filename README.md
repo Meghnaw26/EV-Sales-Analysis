@@ -92,6 +92,51 @@ The goal is to identify **market growth patterns, EV adoption trends across Indi
 ![EV sales distribution by Year](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/a273941f7b7e05eb45b3e0299b23fbd68ce4d832/images/Screenshot%202025-10-17%20230038.png)
 
 
+![EV sales Quantity distribution](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230452.png)
+
+
+![Frequency distribution](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230349.png)
+
+
+![Frequency distribution by state](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230538.png)
+
+
+![Yearly Analysis](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230617.png)
+
+
+![Monthly analysis](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230703.png)
+
+
+![State wise analysis](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230741.png)
+
+
+![Analysis by vehicle type](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230812.png )
+
+
+![Analysis by vehicle category](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230834.png)
+
+
+![State wise sales over years](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20230933.png)
+
+
+
+## **Dashboard Screenshot**
+
+![EV analysis dashboard](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20202437.png )
+
+
+![EV dashbaord](https://github.com/Meghnaw26/EV-Sales-Analysis/blob/32e6cf06c662ad2be720411889c761024ac1b22c/images/Screenshot%202025-10-17%20202619.png)
+
+
+🔗 [Click here to view the full interactive dashboard on Tableau Public](https://public.tableau.com/shared/TB9YZHH7M?:display_count=n&:origin=viz_share_link)
+
+
+
+
+
+
+
+
 
 
 
